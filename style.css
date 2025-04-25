@@ -134,8 +134,8 @@ h1{
 }
 
 .bg-shape1{
-    width: 100%;
-    height: 100%;
+    width: 40%;
+    height: 80%;
     border-radius: 9999px;
     position: relative;
     animation: one 10s infinite;
@@ -143,8 +143,8 @@ h1{
 }
 
 .bg-shape2{
-    width: 0%;
-    height: 0%;
+    width: 50%;
+    height: 100%;
     border-radius: 9999px;
     position: relative;
     animation: two 10s infinite;
@@ -152,8 +152,8 @@ h1{
 }
 
 .bg-shape3{
-    width: 0%;
-    height: 0%;
+    width: 20%;
+    height: 100%;
     border-radius: 9999px;
     position: relative;
     animation: three 10s infinite;
@@ -221,7 +221,7 @@ h1{
     }
     
     .bg-shape1{
-        width: 100%;
+        width: 40%;
         height: 100%;
         border-radius: 9999px;
         position: relative;
@@ -230,16 +230,16 @@ h1{
     }
     
     .bg-shape2{
-        width: 0%;
-        height: 0%;
+        width: 50%;
+        height: 80%;
         border-radius: 9999px;
         position: relative;
         animation-play-state: paused;
     }
     
     .bg-shape3{
-        width: 0%;
-        height: 0;
+        width: 20%;
+        height: 100%;
         border-radius: 9999px;
         position: relative;
         mix-blend-mode: multiply;
